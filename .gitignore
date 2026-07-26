@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+*.zip
+subset_data/
+sli_recovery/
+sli_transfer/
+qualitative_figures/
+agsli_recovery/
+results.json
+.DS_Store
+venv/
+.env
