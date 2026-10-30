@@ -73,4 +73,4 @@ If the original SketchXAI architecture or SLI mechanism is referenced, please ci
 ## Author
 
 Muhammad Awais — PhD Candidate, University of Debrecen, Hungary.
-Work submitted to *Neural Computing and Applications* (Springer Nature).
+Work submitted to *Scientific Reports* (Springer Nature), currently under peer review.
